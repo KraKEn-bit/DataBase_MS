@@ -1,4 +1,4 @@
-# **This repository contains the database project for **INDIGO FLIGHT MANAGEMENT SYSTEM** . It includes the full database schema, data, stored procedures, and an ER diagram.**
+## **This repository contains the database project for **INDIGO FLIGHT MANAGEMENT SYSTEM** . It includes the full database schema, data, stored procedures, and an ER diagram. Also all the codes if you want to see the inside ! **
 
 
 
@@ -18,7 +18,7 @@ The project covers the following:
 
 ## ER Diagram
 
-![ER Diagram]()
+![ER Diagram](PROJECTS/Airport_Data_Analysis/ER_Diagram_Indigo_Data_Analysis.png)
 
 ## How to Use
 
