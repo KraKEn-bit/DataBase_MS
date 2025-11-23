@@ -1,5 +1,34 @@
-# Airport Data Project
+<img width="697" height="1268" alt="ER_Diagram_Indigo_Data_Analysis" src="https://github.com/user-attachments/assets/5eccfbdb-cdb5-452b-a999-defd91d234e2" /># Airport Data Project
 
-All SQL codes for this project are included in this repository:
+This repository contains the database project for **INDIGO FLIGHT MANAGEMENT SYSTEM** . It includes the full database schema, data, stored procedures, and an ER diagram.
 
-- `airport_data.sql` → Full database structure, data, stored procedures, and views.
+## Files Included
+
+- `airport_data.sql` → Full database export including tables, data, stored procedures, and views.
+- `ERD.png` → Entity-Relationship diagram showing tables and their relationships.
+
+## Description
+
+The project covers the following:
+
+- **Tables:** Airport, Flight, FlightMetrics, etc.
+- **Relationships:** One-to-many and many-to-many relationships between tables.
+- **Stored Procedures & Views:** Includes pre-written procedures for common queries.
+- **Data Analysis:** You can run SQL queries to analyze flight data, passenger statistics, etc.
+
+## ER Diagram
+
+![ER Diagram]()
+
+## How to Use
+
+1. Open MySQL Workbench.  
+2. Create a new schema (or database).  
+3. Import the SQL file:
+   - Go to `Server → Data Import`  
+   - Choose `Import from Self-Contained File` → select `airport_data.sql`  
+   - Choose target schema  
+   - Click **Start Import**  
+4. After importing, all tables, data, views, and stored procedures will be available.  
+
+
