@@ -1,6 +1,6 @@
-<img width="697" height="1268" alt="ER_Diagram_Indigo_Data_Analysis" src="https://github.com/user-attachments/assets/5eccfbdb-cdb5-452b-a999-defd91d234e2" /># Airport Data Project
+# **This repository contains the database project for **INDIGO FLIGHT MANAGEMENT SYSTEM** . It includes the full database schema, data, stored procedures, and an ER diagram.**
 
-This repository contains the database project for **INDIGO FLIGHT MANAGEMENT SYSTEM** . It includes the full database schema, data, stored procedures, and an ER diagram.
+
 
 ## Files Included
 
